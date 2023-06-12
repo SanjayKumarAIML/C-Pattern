@@ -23,7 +23,7 @@ Print the program.
 ### Step 8:
 End of the Program.
 ## Program:
-```
+```c#
 using System;
 namespace Pattern
 {
